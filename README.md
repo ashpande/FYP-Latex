@@ -27,3 +27,7 @@ Save your work frequently!
 If you cannot see images in your document, please check the file path.
 
 If the source file gives you any errors, consider opening up an issue on the github issues tab. 
+
+## License
+
+This template is released to the public domain under the Unlicense License. You can read more about it here: https://unlicense.org/
