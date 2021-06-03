@@ -20,13 +20,13 @@ TexMaker user manual: https://www.xm1math.net/texmaker/doc.html
 
 ## Troubleshooting
 
-Try to do frequent recompiles of your source file. If you make 10 changes at once it will be difficult to source the error.
+- Try to do frequent recompiles of your source file. If you make 10 changes at once it will be difficult to source the error.
 
-Save your work frequently!
+- Save your work frequently!
 
-If you cannot see images in your document, please check the file path.
+- If you cannot see images in your document, please check the file path.
 
-If the source file gives you any errors, consider opening up an issue on the github issues tab. 
+- If the source file gives you any errors, consider opening up an issue on the github issues tab. 
 
 ## License
 
