@@ -1,7 +1,10 @@
 # FYP-Latex
 Final Year Project Template in LaTeX for CSE, DSCE.
 
-## Build Instructions
+# Online Editing
+The online instance is on overleaf. You can edit this template without downloading anything. Link is: https://www.overleaf.com/latex/templates/dsce-final-year-project-template/zjtdxgqrbyty
+
+## Manual Build Instructions
 1. Get MikTex (Download and Install First) : https://miktex.org/download
 
 2. Get TexMaker: https://www.xm1math.net/texmaker/download.html
